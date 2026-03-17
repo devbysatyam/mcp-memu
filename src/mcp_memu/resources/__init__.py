@@ -1,0 +1,1 @@
+"""MCP-MEmu resources package."""
